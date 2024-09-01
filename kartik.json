@@ -1,0 +1,218 @@
+[
+  {
+    "monthTitle": "",
+    "entarikYr": "",
+    "days": [
+      {
+        "dashi": "Purnima ",
+        "nday": "1",
+        "eday": "17",
+        "fest": "Kojagrat Purnima, Katim Punhi:",
+        "holiday": false
+      },
+      {
+        "dashi": "Pratipada ",
+        "nday": "2",
+        "eday": "18",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Ditiya ",
+        "nday": "3",
+        "eday": "19",
+        "fest": "",
+        "holiday": true
+      },
+      {
+        "dashi": "Tritiya ",
+        "nday": "4",
+        "eday": "20",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Chaturthi ",
+        "nday": "5",
+        "eday": "21",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Panchami ",
+        "nday": "6",
+        "eday": "22",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Sasthi ",
+        "nday": "7",
+        "eday": "23",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Saptami ",
+        "nday": "8",
+        "eday": "24",
+        "fest": "Aastami Brat, Gorakhkali Puja",
+        "holiday": false
+      },
+      {
+        "dashi": "Aastami ",
+        "nday": "9",
+        "eday": "25",
+        "fest": "Radha Astami",
+        "holiday": false
+      },
+      {
+        "dashi": "Nawami ",
+        "nday": "10",
+        "eday": "26",
+        "fest": "",
+        "holiday": true
+      },
+      {
+        "dashi": "Dashami ",
+        "nday": "11",
+        "eday": "27",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Ekadashi ",
+        "nday": "12",
+        "eday": "28",
+        "fest": "Rama Ekadashi",
+        "holiday": false
+      },
+      {
+        "dashi": "Dwadashi ",
+        "nday": "13",
+        "eday": "29",
+        "fest": "Dhantrayodashi, Dhanteras",
+        "holiday": false
+      },
+      {
+        "dashi": "Trayodashi ",
+        "nday": "14",
+        "eday": "30",
+        "fest": "Kaag Tihar, Yama Deep Daan",
+        "holiday": false
+      },
+      {
+        "dashi": "Chaturdashi ",
+        "nday": "15",
+        "eday": "31",
+        "fest": "Kukur Tihar, Narak Chaturdashi",
+        "holiday": true
+      },
+      {
+        "dashi": "Aaunshi ",
+        "nday": "16",
+        "eday": "01",
+        "fest": "Darsha Shradda, Halo Barne",
+        "holiday": true
+      },
+      {
+        "dashi": "Pratipada ",
+        "nday": "17",
+        "eday": "02",
+        "fest": "Gai Puja, Gobardhan Puja",
+        "holiday": true
+      },
+      {
+        "dashi": "Ditiya ",
+        "nday": "18",
+        "eday": "03",
+        "fest": "Bhai Tika, Kija Puja",
+        "holiday": true
+      },
+      {
+        "dashi": "Tritiya ",
+        "nday": "19",
+        "eday": "04",
+        "fest": "Tritiya",
+        "holiday": true
+      },
+      {
+        "dashi": "Chaturthi ",
+        "nday": "20",
+        "eday": "05",
+        "fest": "Mangal Chauthi Brat",
+        "holiday": false
+      },
+      {
+        "dashi": "Panchami ",
+        "nday": "21",
+        "eday": "06",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Sasthi ",
+        "nday": "22",
+        "eday": "07",
+        "fest": "Chhath Parba, Dala Puja",
+        "holiday": true
+      },
+      {
+        "dashi": "Saptami ",
+        "nday": "23",
+        "eday": "08",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Aastami ",
+        "nday": "24",
+        "eday": "09",
+        "fest": "Aastami Brat, Gorakhkali Puja",
+        "holiday": true
+      },
+      {
+        "dashi": "Nawami ",
+        "nday": "25",
+        "eday": "10",
+        "fest": "Falgunand Jayanti (Holidays for Kiranti Only), Kusmanda Nawami",
+        "holiday": false
+      },
+      {
+        "dashi": "Dashami ",
+        "nday": "26",
+        "eday": "11",
+        "fest": "Balambu Mahalaxmi Yatra",
+        "holiday": false
+      },
+      {
+        "dashi": "Ekadashi ",
+        "nday": "27",
+        "eday": "12",
+        "fest": "Haribodhini Ekadashi Brat, Tulashi Bibah",
+        "holiday": false
+      },
+      {
+        "dashi": "Dwadashi ",
+        "nday": "28",
+        "eday": "13",
+        "fest": "Changunarayan Akhandadip Darshan",
+        "holiday": false
+      },
+      {
+        "dashi": "Trayodashi ",
+        "nday": "29",
+        "eday": "14",
+        "fest": "Baikuntha Chaturdashi, World Diabeties Day",
+        "holiday": false
+      },
+      {
+        "dashi": "Purnima ",
+        "nday": "30",
+        "eday": "15",
+        "fest": "Gurunanak Jayanti (Holidays for Sikhs), Purnima Brat",
+        "holiday": false
+      }
+    ]
+  }
+]

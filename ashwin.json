@@ -1,0 +1,218 @@
+[
+  {
+    "monthTitle": "",
+    "entarikYr": "",
+    "days": [
+      {
+        "dashi": "Chaturdashi  ",
+        "nday": "1",
+        "eday": "17",
+        "fest": "Bishwakarma Puja, Kumari Indra Jatra",
+        "holiday": false
+      },
+      {
+        "dashi": "Purnima  ",
+        "nday": "2",
+        "eday": "18",
+        "fest": "Sohra Shradda Aarambha, Yanya Punhi:",
+        "holiday": false
+      },
+      {
+        "dashi": "Pratipada  ",
+        "nday": "3",
+        "eday": "19",
+        "fest": "Constitution Day (National Day), Dwitiya Shradda",
+        "holiday": true
+      },
+      {
+        "dashi": "Tritiya  ",
+        "nday": "4",
+        "eday": "20",
+        "fest": "Tritiya Shradda",
+        "holiday": false
+      },
+      {
+        "dashi": "Chaturthi  ",
+        "nday": "5",
+        "eday": "21",
+        "fest": "Churthi Shradda, Indradhwoj Patan",
+        "holiday": true
+      },
+      {
+        "dashi": "Panchami  ",
+        "nday": "6",
+        "eday": "22",
+        "fest": "Panchami Shradda",
+        "holiday": false
+      },
+      {
+        "dashi": "Sasthi  ",
+        "nday": "7",
+        "eday": "23",
+        "fest": "Shasthi Shradda",
+        "holiday": false
+      },
+      {
+        "dashi": "Saptami  ",
+        "nday": "8",
+        "eday": "24",
+        "fest": "Saptami Shradda",
+        "holiday": false
+      },
+      {
+        "dashi": "Aastami  ",
+        "nday": "9",
+        "eday": "25",
+        "fest": "Jitiya Parba (Holiday for women who celebrates), Aastami Shradda",
+        "holiday": false
+      },
+      {
+        "dashi": "Nawami  ",
+        "nday": "10",
+        "eday": "26",
+        "fest": "Nawami Shradda",
+        "holiday": false
+      },
+      {
+        "dashi": "Dashami  ",
+        "nday": "11",
+        "eday": "27",
+        "fest": "Dashami Shradda",
+        "holiday": false
+      },
+      {
+        "dashi": "Ekadashi  ",
+        "nday": "12",
+        "eday": "28",
+        "fest": "Indira Ekadashi Brat, Ekadashi Shradda",
+        "holiday": true
+      },
+      {
+        "dashi": "Dwadashi  ",
+        "nday": "13",
+        "eday": "29",
+        "fest": "Dwadashi Shradda",
+        "holiday": false
+      },
+      {
+        "dashi": "Trayodashi  ",
+        "nday": "14",
+        "eday": "30",
+        "fest": "Trayodashi Shradda, Jumla Khalangama Chandannath ko Lingo Thadyaune",
+        "holiday": false
+      },
+      {
+        "dashi": "Chaturdashi  ",
+        "nday": "15",
+        "eday": "01",
+        "fest": "Chaturdashi Shradda",
+        "holiday": false
+      },
+      {
+        "dashi": "Aaunshi  ",
+        "nday": "16",
+        "eday": "02",
+        "fest": "Aaunshi Shradda, Darsha Shradda",
+        "holiday": false
+      },
+      {
+        "dashi": "Pratipada  ",
+        "nday": "17",
+        "eday": "03",
+        "fest": "Ghatasthapana, Navaratri Arambha",
+        "holiday": true
+      },
+      {
+        "dashi": "Ditiya  ",
+        "nday": "18",
+        "eday": "04",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Tritiya  ",
+        "nday": "19",
+        "eday": "05",
+        "fest": "",
+        "holiday": true
+      },
+      {
+        "dashi": "Chaturthi  ",
+        "nday": "20",
+        "eday": "06",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Chaturthi  ",
+        "nday": "21",
+        "eday": "07",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Panchami  ",
+        "nday": "22",
+        "eday": "08",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Sasthi  ",
+        "nday": "23",
+        "eday": "09",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Saptami  ",
+        "nday": "24",
+        "eday": "10",
+        "fest": "Phulpati, Nawapatrika Prabesh",
+        "holiday": true
+      },
+      {
+        "dashi": "Aastami  ",
+        "nday": "25",
+        "eday": "11",
+        "fest": "Maha Astami, Kaal Ratri",
+        "holiday": true
+      },
+      {
+        "dashi": "Dashami  ",
+        "nday": "26",
+        "eday": "12",
+        "fest": "Bijayadashami, Dashain ko Tika 2081",
+        "holiday": true
+      },
+      {
+        "dashi": "Ekadashi  ",
+        "nday": "27",
+        "eday": "13",
+        "fest": "Papangkusha Ekadashi Brat, Annapurna Yatra",
+        "holiday": true
+      },
+      {
+        "dashi": "Dwadashi  ",
+        "nday": "28",
+        "eday": "14",
+        "fest": "Dwadashi, World Quality Day",
+        "holiday": true
+      },
+      {
+        "dashi": "Trayodashi  ",
+        "nday": "29",
+        "eday": "15",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Chaturdashi  ",
+        "nday": "30",
+        "eday": "16",
+        "fest": "Kojagrat Brat, World Food Day",
+        "holiday": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "monthTitle": "Bhadra 2081",
+    "entarikYr": "Aug/Sep 2024",
+    "days": [
+      {
+        "dashi": "Dwadashi",
+        "nday": "30",
+        "eday": "15",
+        "fest": "Baman Dwadashi, Indradhwojatthan",
+        "holiday": false
+      },
+      {
+        "dashi": "Trayodashi",
+        "nday": "31",
+        "eday": "16",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Trayodashi",
+        "nday": "1",
+        "eday": "17",
+        "fest": "",
+        "holiday": true
+      },
+      {
+        "dashi": "Chaturdashi",
+        "nday": "2",
+        "eday": "18",
+        "fest": "Bajura Badimalika Mela",
+        "holiday": false
+      },
+      {
+        "dashi": "Purnima",
+        "nday": "3",
+        "eday": "19",
+        "fest": "Janai Purnima, Rishi Tarpani",
+        "holiday": true
+      },
+      {
+        "dashi": "Pratipada",
+        "nday": "4",
+        "eday": "20",
+        "fest": "Gai Jatra, Saparu (Holiday for Ktm only and Newar Community all over country)",
+        "holiday": false
+      },
+      {
+        "dashi": "Ditiya",
+        "nday": "5",
+        "eday": "21",
+        "fest": "Ropain Jatra, Yal Matya",
+        "holiday": false
+      },
+      {
+        "dashi": "Tritiya",
+        "nday": "6",
+        "eday": "22",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Chaturthi",
+        "nday": "7",
+        "eday": "23",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Panchami",
+        "nday": "8",
+        "eday": "24",
+        "fest": "Biruda Panchami, Lalitpur Narasimha Yatra",
+        "holiday": true
+      },
+      {
+        "dashi": "Sasthi",
+        "nday": "9",
+        "eday": "25",
+        "fest": "Gaura Saptami",
+        "holiday": false
+      },
+      {
+        "dashi": "Saptami",
+        "nday": "10",
+        "eday": "26",
+        "fest": "Shreekrishna Janmastami, Gaura Parba",
+        "holiday": true
+      },
+      {
+        "dashi": "Aastami",
+        "nday": "11",
+        "eday": "27",
+        "fest": "Shreekrishna Rathyatra",
+        "holiday": false
+      },
+      {
+        "dashi": "Dashami",
+        "nday": "12",
+        "eday": "28",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Ekadashi",
+        "nday": "13",
+        "eday": "29",
+        "fest": "Smartharuko Ajaa Ekadashi Brat",
+        "holiday": false
+      },
+      {
+        "dashi": "Dwadashi",
+        "nday": "14",
+        "eday": "30",
+        "fest": "Biashnab haruko Ajaa Ekadashi Brat, Swayambhu ko Chayan Darshan",
+        "holiday": false
+      },
+      {
+        "dashi": "Trayodashi",
+        "nday": "15",
+        "eday": "31",
+        "fest": "Yan Pancha Daan",
+        "holiday": true
+      },
+      {
+        "dashi": "Chaturdashi",
+        "nday": "16",
+        "eday": "01",
+        "fest": "Charhe Puja",
+        "holiday": false
+      },
+      {
+        "dashi": "Aaunshi",
+        "nday": "17",
+        "eday": "02",
+        "fest": "Kushe Aaunshi, Bubako Mukh Herne Din",
+        "holiday": false
+      },
+      {
+        "dashi": "Aaunshi",
+        "nday": "18",
+        "eday": "03",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Pratipada",
+        "nday": "19",
+        "eday": "04",
+        "fest": "Guunla Dharma Samapti",
+        "holiday": false
+      },
+      {
+        "dashi": "Ditiya",
+        "nday": "20",
+        "eday": "05",
+        "fest": "Dar Khane Din, Manab Bech Bikhan Birudda ko Rastriya Diwas",
+        "holiday": false
+      },
+      {
+        "dashi": "Tritiya",
+        "nday": "21",
+        "eday": "06",
+        "fest": "Haritalika Brat, Teej (Holiday for Women only)",
+        "holiday": false
+      },
+      {
+        "dashi": "Chaturthi",
+        "nday": "22",
+        "eday": "07",
+        "fest": "Ganesh Chaturthi, Nijamati Sewa Diwas",
+        "holiday": true
+      },
+      {
+        "dashi": "Panchami",
+        "nday": "23",
+        "eday": "08",
+        "fest": "Rishi Panchami, Saptarshi Puja",
+        "holiday": false
+      },
+      {
+        "dashi": "Sasthi",
+        "nday": "24",
+        "eday": "09",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Saptami",
+        "nday": "25",
+        "eday": "10",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Aastami",
+        "nday": "26",
+        "eday": "11",
+        "fest": "Kaya Aastami, Gorakhkali Puja",
+        "holiday": false
+      },
+      {
+        "dashi": "Nawami",
+        "nday": "27",
+        "eday": "12",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Dashami",
+        "nday": "28",
+        "eday": "13",
+        "fest": "",
+        "holiday": false
+      },
+      {
+        "dashi": "Ekadashi",
+        "nday": "29",
+        "eday": "14",
+        "fest": "Haripariwartini Ekadashi Brat, Rastriya Baal Diwas",
+        "holiday": true
+      }
+    ]
+  }
+]
